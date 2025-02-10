@@ -26,3 +26,6 @@ Este projeto é uma aplicação web simples que exibe uma contagem regressiva at
 - HTML
 - CSS
 - JavaScript
+
+## Deploy
+- https://desafio-contdown.vercel.app
